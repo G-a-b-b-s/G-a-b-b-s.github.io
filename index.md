@@ -1,3 +1,3 @@
-My first page    <br>
-The content of my page <br>     
-The second version   <br>
+My first page<br>
+Created by Github Pages<br>     
+
