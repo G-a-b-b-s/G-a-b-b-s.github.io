@@ -1,4 +1,6 @@
 title: Gabi page
 github_username: G-a-b-b-s
 theme: minima
+plugins:
+ - jekyll-feed
 
